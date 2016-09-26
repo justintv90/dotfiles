@@ -1,0 +1,134 @@
+2016-09-04 20:14:35		justintv90 (~justintv9@58.187.167.151) has joined #archlinux-unregistered
+2016-09-04 20:14:35	ℹ 	Topic for #archlinux-unregistered is "=== You need a freenode account to join #archlinux. Register by following the instructions at <http://freenode.net/kb/answer/registration>. You can get a list of people who can help you by typing `/msg chanserv access #archlinux list`, or join #freenode and ask there. The bot can give you a one-time ticket. ==="
+2016-09-04 20:14:35	ℹ 	Topic set by tigrmesh (~tigrmesh@archlinux/op/tigrmesh) on Tue, 09 Aug 2016 11:33:51"
+2016-09-04 20:14:35	ℹ 	Channel #archlinux-unregistered: 442 nicks (4 ops, 0 voices, 438 normals)
+2016-09-04 20:14:41	ℹ 	Channel created on Sun, 28 Dec 2014 06:49:46"
+2016-09-04 20:15:41		pf__ (~pf@109.2.broadband2.iol.cz) has joined #archlinux-unregistered
+2016-09-04 20:16:19		anuxivm (~anuxi@92.185.154.236) has joined #archlinux-unregistered
+2016-09-04 20:16:28		ChanServ (ChanServ@services.) has joined #archlinux-unregistered
+2016-09-04 20:16:33	ℹ 	Mode #archlinux-unregistered [+o ChanServ] by sinisalo.freenode.net
+2016-09-04 20:16:34		gwash_ (~gwash@156.213.177.222) has quit (Ping timeout: 240 seconds)
+2016-09-04 20:17:35	@evilgrawity	anuxivm: You can /join #archlinux now.
+2016-09-04 20:17:55		bookworm (~bookworm@2a02:120b:2c09:4720:ba27:ebff:feb7:f4ff) has quit (Changing host)
+2016-09-04 20:18:01		bookworm (~bookworm@unaffiliated/reto) has joined #archlinux-unregistered
+2016-09-04 20:18:01	@evilgrawity	bookworm: You can /join #archlinux now.
+2016-09-04 20:18:46		elkorn (~elkorn@dslb-178-012-222-135.178.012.pools.vodafone-ip.de) has left #archlinux-unregistered (requested by evilgrawity (Go back to #archlinux now.))
+2016-09-04 20:18:46		bookworm (~bookworm@unaffiliated/reto) has left #archlinux-unregistered (requested by evilgrawity (Go back to #archlinux now.))
+2016-09-04 20:18:46		indeedwatson (~yama@host17.201-252-120.telecom.net.ar) has left #archlinux-unregistered
+2016-09-04 20:18:48		Darkwater (~dark@2a01:7c8:aabc:280:5054:ff:feb4:e200) has quit (Changing host)
+2016-09-04 20:18:49		Darkwater (~dark@unaffiliated/darkwater) has joined #archlinux-unregistered
+2016-09-04 20:18:49	@evilgrawity	Darkwater: You can /join #archlinux now.
+2016-09-04 20:19:02		Darkwater (~dark@unaffiliated/darkwater) has left #archlinux-unregistered (requested by evilgrawity (Go back to #archlinux now.))
+2016-09-04 20:20:09		mihok (~mihok@162.249.161.243) has joined #archlinux-unregistered
+2016-09-04 20:20:10		exciton (chuck-the-@89.208.170.132) has joined #archlinux-unregistered
+2016-09-04 20:20:10		sithlord48 (~quassel@24-105-220-64.cm.mhcable.com) has quit (Ping timeout: 252 seconds)
+2016-09-04 20:20:37		mikkeloscar (~F1skr@zxv.io) has quit (Quit: WeeChat 1.5)
+2016-09-04 20:24:59		lithiumpt (~lithium@pt1.nordvpn.com) has quit (Ping timeout: 244 seconds)
+2016-09-04 20:25:05		vuoto (~vuoto@87-56-84-177-dynamic.dk.customer.tdc.net) has quit (Remote host closed the connection)
+2016-09-04 20:26:03		sithlord48 (~quassel@24-105-220-64.cm.mhcable.com) has joined #archlinux-unregistered
+2016-09-04 20:27:06		bluedrc (~bluebrain@ehu69.neoplus.adsl.tpnet.pl) has joined #archlinux-unregistered
+2016-09-04 20:27:36		dz0 (~dz0@ppp121-44-18-31.lns20.syd4.internode.on.net) has joined #archlinux-unregistered
+2016-09-04 20:27:36		Retr0id (~null@185.23.213.22) has joined #archlinux-unregistered
+2016-09-04 20:28:11		nobiz (~nobiz@62.113.203.227) has joined #archlinux-unregistered
+2016-09-04 20:29:25		nobiz (~nobiz@62.113.203.227) has quit (Remote host closed the connection)
+2016-09-04 20:33:07		lithiumpt (~lithium@pt1.nordvpn.com) has joined #archlinux-unregistered
+2016-09-04 20:33:12		nobiz (~nobiz@62.113.203.227) has joined #archlinux-unregistered
+2016-09-04 20:33:12		nobiz (~nobiz@62.113.203.227) has quit (Changing host)
+2016-09-04 20:33:12		nobiz (~nobiz@unaffiliated/nobiz) has joined #archlinux-unregistered
+2016-09-04 20:33:12	@evilgrawity	nobiz: You can /join #archlinux now. (Also, use SASL.)
+2016-09-04 20:33:18	@evilgrawity	bluedrc: You can /join #archlinux now.
+2016-09-04 20:33:23		bluedrc (~bluebrain@ehu69.neoplus.adsl.tpnet.pl) has left #archlinux-unregistered (requested by evilgrawity (Go back to #archlinux now.))
+2016-09-04 20:41:54		nucleargrave (~nucleargr@c-73-150-253-137.hsd1.nj.comcast.net) has left #archlinux-unregistered
+2016-09-04 20:41:59		P_C (~Thunderbi@public-gprs376226.centertel.pl) has joined #archlinux-unregistered
+2016-09-04 20:47:59		dz0 (~dz0@ppp121-44-18-31.lns20.syd4.internode.on.net) has quit (Ping timeout: 260 seconds)
+2016-09-04 20:49:39		MicroCheapFx (~MicroChea@122.143.125.78.rev.sfr.net) has quit (Quit: WeeChat 1.5)
+2016-09-04 20:50:19		renze (~renze@2002:524b:5a55:b001:5054:ff:fe9a:2b5c) has quit (Ping timeout: 260 seconds)
+2016-09-04 20:54:27		ruptwelve_ (~ruptwelve@37.228.253.16) has joined #archlinux-unregistered
+2016-09-04 20:56:26		stef204 (~stef204@212-124-166-90.v4.ngi.it) has quit (Quit: WeeChat 1.5)
+2016-09-04 20:56:53		gwash_ (~gwash@156.212.196.78) has joined #archlinux-unregistered
+2016-09-04 20:59:49		P_C (~Thunderbi@public-gprs376226.centertel.pl) has quit (Quit: P_C)
+2016-09-04 21:00:46		AleXoundOS_ (~AleXoundO@ip-79-111-182-87.bb.netbynet.ru) has joined #archlinux-unregistered
+2016-09-04 21:01:05		AleXoundOS_ (~AleXoundO@ip-79-111-182-87.bb.netbynet.ru) has quit (Quit: Leaving)
+2016-09-04 21:06:16		aguitel (~aguitel@190.105.60.42) has joined #archlinux-unregistered
+2016-09-04 21:06:28		maze-m (~matze@2a02:2028:853:a201:5a94:6bff:fe3c:31d0) has joined #archlinux-unregistered
+2016-09-04 21:06:28		maze-m (~matze@2a02:2028:853:a201:5a94:6bff:fe3c:31d0) has quit (Changing host)
+2016-09-04 21:06:28		maze-m (~matze@unaffiliated/maze-m) has joined #archlinux-unregistered
+2016-09-04 21:06:33	@evilgrawity	maze-m: You can /join #archlinux now. (Also, use SASL.)
+2016-09-04 21:06:48		aguitel (~aguitel@190.105.60.42) has left #archlinux-unregistered (requested by evilgrawity (Go back to #archlinux now.))
+2016-09-04 21:07:41		Duality (~robert@524B5A55.cm-4-4b.dynamic.ziggo.nl) has joined #archlinux-unregistered
+2016-09-04 21:07:56		renze (~renze@524B5A55.cm-4-4b.dynamic.ziggo.nl) has joined #archlinux-unregistered
+2016-09-04 21:07:57	@evilgrawity	renze: You can /join #archlinux now. (Also, use SASL.)
+2016-09-04 21:09:01		gwash_ (~gwash@156.212.196.78) has quit (Ping timeout: 255 seconds)
+2016-09-04 21:10:36		alxndr13_ (~alxndr13@89.204.130.42) has joined #archlinux-unregistered
+2016-09-04 21:11:41		alxndr13_ (~alxndr13@89.204.130.42) has quit (Client Quit)
+2016-09-04 21:11:56		maze-m (~matze@unaffiliated/maze-m) has quit (Ping timeout: 260 seconds)
+2016-09-04 21:14:56		nighty (~nighty@s229123.ppp.asahi-net.or.jp) has joined #archlinux-unregistered
+2016-09-04 21:17:10		gwash_ (~gwash@156.213.97.52) has joined #archlinux-unregistered
+2016-09-04 21:18:51		maze-m (~matze@2a02:2028:853:a201:5a94:6bff:fe3c:31d0) has joined #archlinux-unregistered
+2016-09-04 21:18:51		maze-m (~matze@2a02:2028:853:a201:5a94:6bff:fe3c:31d0) has quit (Changing host)
+2016-09-04 21:18:51		maze-m (~matze@unaffiliated/maze-m) has joined #archlinux-unregistered
+2016-09-04 21:20:59		shinnya (~shinnya@245.144.137.133.dy.bbexcite.jp) has quit (Ping timeout: 265 seconds)
+2016-09-04 21:22:09		wonderworld (~ww@ip-176-198-123-154.hsi05.unitymediagroup.de) has joined #archlinux-unregistered
+2016-09-04 21:27:29		maze-m (~matze@unaffiliated/maze-m) has quit (Ping timeout: 264 seconds)
+2016-09-04 21:28:51		sithlord48 (~quassel@24-105-220-64.cm.mhcable.com) has quit (Remote host closed the connection)
+2016-09-04 21:33:43		BorgCuba (~Sumo@ip1f12811a.dynamic.kabel-deutschland.de) has joined #archlinux-unregistered
+2016-09-04 21:33:57		gwash_ (~gwash@156.213.97.52) has quit (Ping timeout: 276 seconds)
+2016-09-04 21:40:58		BorgCuba (~Sumo@ip1f12811a.dynamic.kabel-deutschland.de) has quit (Ping timeout: 244 seconds)
+2016-09-04 21:41:43		gwash_ (~gwash@156.213.234.72) has joined #archlinux-unregistered
+2016-09-04 21:44:43		sithlord48 (~quassel@24-105-220-64.cm.mhcable.com) has joined #archlinux-unregistered
+2016-09-04 21:44:57		laya (~laya@p5DE549D0.dip0.t-ipconnect.de) has joined #archlinux-unregistered
+2016-09-04 21:45:04		laya (~laya@p5DE549D0.dip0.t-ipconnect.de) has left #archlinux-unregistered
+2016-09-04 21:46:01		exciton (chuck-the-@89.208.170.132) has quit (Read error: No route to host)
+2016-09-04 21:51:11		exciton (chuck-the-@89.208.170.132) has joined #archlinux-unregistered
+2016-09-04 21:55:12		evertmantel (~evertmant@2a02:a446:d9b:0:9dff:7331:745b:5558) has joined #archlinux-unregistered
+2016-09-04 21:57:34		AlexKrug (~AlexKrug4@nat-1-4.nsk.sibset.net) has joined #archlinux-unregistered
+2016-09-04 21:59:08		piggah (~nick@dt0c0n96.tampabay.res.rr.com) has joined #archlinux-unregistered
+2016-09-04 22:00:20	@evilgrawity	AlexKrug: You can /join #archlinux now.
+2016-09-04 22:00:26		pandaant (~batman@149.201.240.93) has joined #archlinux-unregistered
+2016-09-04 22:00:26	@evilgrawity	pandaant: You can /join #archlinux now. (Also, use SASL.)
+2016-09-04 22:02:21		AlexKrug (~AlexKrug4@nat-1-4.nsk.sibset.net) has quit (Quit: Leaving)
+2016-09-04 22:03:19		ooeup (~nathan@198.8.80.181) has joined #archlinux-unregistered
+2016-09-04 22:03:24	@evilgrawity	ooeup: You're not in #archlinux yet -- please log in to your freenode account first.(Type /topic for more info. If you're human, use ?hello to get a pass.)
+2016-09-04 22:03:27	@evilgrawity	Ok, use /join.
+2016-09-04 22:03:35		ooeup (~nathan@198.8.80.181) has left #archlinux-unregistered (requested by evilgrawity (Go back to #archlinux now.))
+2016-09-04 22:05:47		evertmantel (~evertmant@2a02:a446:d9b:0:9dff:7331:745b:5558) has quit (Quit: evertmantel)
+2016-09-04 22:07:27		sithlord48 (~quassel@24-105-220-64.cm.mhcable.com) has quit (Ping timeout: 252 seconds)
+2016-09-04 22:08:57		qing1997 (~qing@223.96.153.255) has joined #archlinux-unregistered
+2016-09-04 22:08:58		Goatman (~bronco51@64.106.111.38) has joined #archlinux-unregistered
+2016-09-04 22:14:14		qing1997 (~qing@223.96.153.255) has quit (Remote host closed the connection)
+2016-09-04 22:22:08		AudaciousTUX (~Audacious@unaffiliated/audacioustux) has joined #archlinux-unregistered
+2016-09-04 22:22:56		Raz0r (~none@173-19-70-35.client.mchsi.com) has joined #archlinux-unregistered
+2016-09-04 22:23:39		piggah (~nick@dt0c0n96.tampabay.res.rr.com) has quit (Ping timeout: 260 seconds)
+2016-09-04 22:25:31		gwash_ (~gwash@156.213.234.72) has quit (Ping timeout: 255 seconds)
+2016-09-04 22:29:52		piggah (~nick@dt0c0n96.tampabay.res.rr.com) has joined #archlinux-unregistered
+2016-09-04 22:29:53	@evilgrawity	piggah: You can /join #archlinux now. (Also, use SASL.)
+2016-09-04 22:33:00		Baconaetor (~Myrddin@c-73-16-207-69.hsd1.ma.comcast.net) has joined #archlinux-unregistered
+2016-09-04 22:33:00	@evilgrawity	Baconaetor: You can /join #archlinux now. (Also, use SASL.)
+2016-09-04 22:34:16		gwash_ (~gwash@156.212.21.219) has joined #archlinux-unregistered
+2016-09-04 22:34:55		gwash_ (~gwash@156.212.21.219) has quit (Read error: Connection reset by peer)
+2016-09-04 22:37:00		gwash_ (~gwash@156.212.21.219) has joined #archlinux-unregistered
+2016-09-04 22:38:24		wimbi (~Mutter@2.53.36.185) has joined #archlinux-unregistered
+2016-09-04 22:38:33		wimbi (~Mutter@2.53.36.185) has quit (Client Quit)
+2016-09-04 22:41:38		Runaway (~dennis@HSI-KBW-109-192-077-209.hsi6.kabel-badenwuerttemberg.de) has joined #archlinux-unregistered
+2016-09-04 22:44:58		AudaciousTUX (~Audacious@unaffiliated/audacioustux) has quit (Remote host closed the connection)
+2016-09-04 22:45:22		crossing-styx (~crossing-@user173.77-105-202.netatonce.net) has quit (Ping timeout: 252 seconds)
+2016-09-04 22:47:12		Goatman (~bronco51@64.106.111.38) has quit (Ping timeout: 240 seconds)
+2016-09-04 22:48:55		zadock (~outsider@81.180.208.242) has joined #archlinux-unregistered
+2016-09-04 22:48:57		s4ndm4n (~sandman@unaffiliated/sandman13) has joined #archlinux-unregistered
+2016-09-04 22:51:54		jonas_buet (~jonas_bue@180.211.152.206) has joined #archlinux-unregistered
+2016-09-04 22:51:54	@evilgrawity	jonas_buet: You can /join #archlinux now. (Also, use SASL.)
+2016-09-04 22:52:32		Xizor (~Xizor@chy94-h02-176-136-125-157.dsl.sta.abo.bbox.fr) has joined #archlinux-unregistered
+2016-09-04 22:52:32	@evilgrawity	Xizor: You can /join #archlinux now. (Also, use SASL.)
+2016-09-04 22:52:37		Xizor (~Xizor@chy94-h02-176-136-125-157.dsl.sta.abo.bbox.fr) has left #archlinux-unregistered (requested by evilgrawity (Go back to #archlinux now.))
+2016-09-04 22:54:01		exciton (chuck-the-@89.208.170.132) has quit (Read error: Connection reset by peer)
+2016-09-04 22:54:10		exciton (chuck-the-@89.208.170.132) has joined #archlinux-unregistered
+2016-09-04 22:55:12		zadock (~outsider@81.180.208.242) has quit (Quit: Leaving)
+2016-09-04 22:57:01		cmx (~cmx@p200300C43BC87AAD3CAB7C8E62AEDEA1.dip0.t-ipconnect.de) has quit (Remote host closed the connection)
+2016-09-04 22:59:51		jonas_buet (~jonas_bue@180.211.152.206) has quit (Quit: WeeChat 1.5)
+2016-09-04 23:03:29		ostkind_ (~ostkind_@p5B3D585C.dip0.t-ipconnect.de) has joined #archlinux-unregistered
+2016-09-04 23:04:23		turlando (~turlando@151.64.47.224) has joined #archlinux-unregistered
+2016-09-04 23:04:28		badpixel (~badpixel@177.18.184.30) has joined #archlinux-unregistered
+2016-09-04 23:04:30		turlando (~turlando@151.64.47.224) has quit (Remote host closed the connection)
+2016-09-04 23:05:04	@evilgrawity	badpixel: You're not in #archlinux yet -- please log in to your freenode account first.(Type /topic for more info. If you're human, use ?hello to get a pass.)
+2016-09-04 23:05:25		jk8s (~jk8s@84-115-150-28.cable.dynamic.surfer.at) has joined #archlinux-unregistered
+2016-09-04 23:06:33	ℹ 	irc: disconnected from server

@@ -1,0 +1,393 @@
+2016-08-31 22:30:40		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, script, tcl, trigger, xfer
+2016-08-31 22:31:26	=!=	You can not write text in this buffer
+2016-08-31 22:31:27		fifo: pipe closed
+2016-09-02 09:02:10		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-02 09:06:24	=!=	Error with command "/plugin install buddylist.pl" (help on command: /help plugin)
+2016-09-02 09:06:32		script: downloading list of scripts...
+2016-09-02 09:06:34		script: 310 scripts for WeeChat 1.5
+2016-09-02 09:06:36		perl: loading script "/home/justin/.weechat/perl/buddylist.pl"
+2016-09-02 09:06:36		perl: registered script "buddylist", version 1.8 (display status from your buddies a bar-item.)
+2016-09-02 09:06:36		New key binding (context "mouse"): @chat(*)>item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-09-02 09:06:36		New key binding (context "mouse"): @item(buffer_nicklist)>item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-09-02 09:06:36		New key binding (context "mouse"): @item(buddylist):button1* => hsignal:buddylist_mouse
+2016-09-02 09:06:36		New key binding (context "mouse"): @item(buddylist):button1-gesture-* => hsignal:buddylist_mouse
+2016-09-02 09:07:56		perl: loading script "/home/justin/.weechat/perl/buffers.pl"
+2016-09-02 09:07:56		perl: registered script "buffers", version 5.4 (Sidebar with list of buffers)
+2016-09-02 09:07:56		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2016-09-02 09:07:56		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2016-09-02 09:07:56		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2016-09-02 09:07:56		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2016-09-02 09:07:58		perl: loading script "/home/justin/.weechat/perl/iset.pl"
+2016-09-02 09:07:58		perl: registered script "iset", version 4.2 (Interactive Set for configuration options)
+2016-09-02 09:07:58		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2016-09-02 09:07:58		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2016-09-02 09:07:58		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2016-09-02 09:07:58		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2016-09-02 09:07:59		python: loading script "/home/justin/.weechat/python/prism.py"
+2016-09-02 09:07:59		python: registered script "prism", version 0.2.10 (Taste the rainbow.)
+2016-09-02 09:08:01		python: loading script "/home/justin/.weechat/python/text_item.py"
+2016-09-02 09:08:01		python: registered script "text_item", version 0.4 (add a plain text or evaluated content to item bar)
+2016-09-02 09:08:03		python: loading script "/home/justin/.weechat/python/urlserver.py"
+2016-09-02 09:08:03		python: registered script "urlserver", version 2.0 (Shorten URLs with own HTTP server)
+2016-09-02 09:08:03		URL server listening on ('192.168.1.30', 40487)
+2016-09-02 09:08:04		python: loading script "/home/justin/.weechat/python/shell.py"
+2016-09-02 09:08:04		python: registered script "shell", version 0.8 (Run shell commands in WeeChat)
+2016-09-02 09:09:02	=!=	You can not write text in this buffer
+2016-09-02 09:09:04		perl: scripts unloaded
+2016-09-02 09:09:04		URL server stopped
+2016-09-02 09:09:04		python: scripts unloaded
+2016-09-02 09:09:04		fifo: pipe closed
+2016-09-02 09:09:31		URL server listening on ('192.168.1.30', 42313)
+2016-09-02 09:09:31		python scripts loaded: prism, shell, text_item, urlserver
+2016-09-02 09:09:31		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2016-09-02 09:09:31		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2016-09-02 09:09:31		perl scripts loaded: buddylist, buffers, iset
+2016-09-02 09:09:31		script: 310 scripts for WeeChat 1.5
+2016-09-02 09:09:31		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-02 09:16:00		perl: scripts unloaded
+2016-09-02 09:16:00		URL server stopped
+2016-09-02 09:16:00		python: scripts unloaded
+2016-09-02 09:16:00		fifo: pipe closed
+2016-09-02 09:16:58		URL server listening on ('192.168.1.30', 33323)
+2016-09-02 09:16:58		python scripts loaded: prism, shell, text_item, urlserver
+2016-09-02 09:16:58		perl scripts loaded: buddylist, buffers, iset
+2016-09-02 09:16:58		script: 310 scripts for WeeChat 1.5
+2016-09-02 09:16:58		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-02 09:16:58	=!=	You can not write text in this buffer
+2016-09-02 09:17:01		perl: scripts unloaded
+2016-09-02 09:17:02		URL server stopped
+2016-09-02 09:17:02		python: scripts unloaded
+2016-09-02 09:17:02		fifo: pipe closed
+2016-09-02 09:17:04		URL server listening on ('192.168.1.30', 45843)
+2016-09-02 09:17:04		python scripts loaded: prism, shell, text_item, urlserver
+2016-09-02 09:17:04		perl scripts loaded: buddylist, buffers, iset
+2016-09-02 09:17:04		script: 310 scripts for WeeChat 1.5
+2016-09-02 09:17:04		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-02 09:17:09		perl: scripts unloaded
+2016-09-02 09:17:09		URL server stopped
+2016-09-02 09:17:09		python: scripts unloaded
+2016-09-02 09:17:09		fifo: pipe closed
+2016-09-02 09:18:45		URL server listening on ('192.168.1.30', 45977)
+2016-09-02 09:18:45		python scripts loaded: prism, shell, text_item, urlserver
+2016-09-02 09:18:45		perl scripts loaded: buddylist, buffers, iset
+2016-09-02 09:18:45		script: 310 scripts for WeeChat 1.5
+2016-09-02 09:18:45		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-02 09:18:51	=!=	irc: unable to add temporary server "freenode" because the addition of temporary servers with command /connect is currently disabled
+2016-09-02 09:18:51	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2016-09-02 09:19:55	=!=	You can not write text in this buffer
+2016-09-02 09:19:59		irc: server freenode added
+2016-09-02 09:21:21		Option changed: irc.server.freenode.nicks = "justintv90, justintv90_"  (default if null: "justin,justin1,justin2,justin3,justin4")
+2016-09-02 09:21:38		Option changed: irc.server.freenode.username = "justintv90"  (default if null: "justin")
+2016-09-02 09:22:05		Option changed: irc.server.freenode.autoconnect = on  (default if null: off)
+2016-09-02 09:22:15		Option changed: irc.server.freenode.ssl = on  (default if null: off)
+2016-09-02 09:22:49		perl: scripts unloaded
+2016-09-02 09:22:49		URL server stopped
+2016-09-02 09:22:49		python: scripts unloaded
+2016-09-02 09:22:49		fifo: pipe closed
+2016-09-02 09:22:51		URL server listening on ('192.168.1.30', 37911)
+2016-09-02 09:22:51		python scripts loaded: prism, shell, text_item, urlserver
+2016-09-02 09:22:51		perl scripts loaded: buddylist, buffers, iset
+2016-09-02 09:22:51		script: 310 scripts for WeeChat 1.5
+2016-09-02 09:22:51		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-02 09:24:19		Option changed: irc.server.freenode.sasl_mechanism = ecdsa-nist256p-challenge  (default if null: plain)
+2016-09-02 09:24:31		Option changed: irc.server.freenode.sasl_username = "justintv90"  (default if null: "")
+2016-09-02 09:24:37		Option changed: irc.server.freenode.sasl_key = "%h/ecdsa.pem"  (default if null: "")
+2016-09-02 09:27:13		perl: scripts unloaded
+2016-09-02 09:27:13		URL server stopped
+2016-09-02 09:27:13		python: scripts unloaded
+2016-09-02 09:27:13		fifo: pipe closed
+2016-09-02 09:27:14		URL server listening on ('192.168.1.30', 43777)
+2016-09-02 09:27:14		python scripts loaded: prism, shell, text_item, urlserver
+2016-09-02 09:27:14		perl scripts loaded: buddylist, buffers, iset
+2016-09-02 09:27:14		script: 310 scripts for WeeChat 1.5
+2016-09-02 09:27:14		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-02 09:30:14		perl: scripts unloaded
+2016-09-02 09:30:14		URL server stopped
+2016-09-02 09:30:14		python: scripts unloaded
+2016-09-02 09:30:14		fifo: pipe closed
+2016-09-02 09:33:21		URL server listening on ('192.168.1.30', 39361)
+2016-09-02 09:33:21		python scripts loaded: prism, shell, text_item, urlserver
+2016-09-02 09:33:21		perl scripts loaded: buddylist, buffers, iset
+2016-09-02 09:33:21		script: 310 scripts for WeeChat 1.5
+2016-09-02 09:33:21		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-02 09:37:06		Option changed: weechat.bar.nicklist.hidden = off  (default: on)
+2016-09-02 09:37:28	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2016-09-02 09:37:40	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2016-09-02 09:37:44	=!=	You can not write text in this buffer
+2016-09-02 09:49:06		Option changed: weechat.bar.buffers.items = "buffers"  (default: "")
+2016-09-02 09:49:40		Option changed: buffers.look.hide_merged_buffers = server  (default: none)
+2016-09-02 09:49:49		Option changed: buffers.look.detach = 600  (default: 0)
+2016-09-02 09:49:53		Options saved to sec.conf
+2016-09-02 09:49:53		Options saved to weechat.conf
+2016-09-02 09:49:53		Options saved to plugins.conf
+2016-09-02 09:49:53		Options saved to charset.conf
+2016-09-02 09:49:53		Options saved to logger.conf
+2016-09-02 09:49:53		Options saved to exec.conf
+2016-09-02 09:49:53		Options saved to trigger.conf
+2016-09-02 09:49:53		Options saved to aspell.conf
+2016-09-02 09:49:53		Options saved to alias.conf
+2016-09-02 09:49:53		Options saved to xfer.conf
+2016-09-02 09:49:53		Options saved to irc.conf
+2016-09-02 09:49:53		Options saved to relay.conf
+2016-09-02 09:49:53		Options saved to buffers.conf
+2016-09-02 09:49:53		Options saved to iset.conf
+2016-09-02 09:49:53		Options saved to script.conf
+2016-09-02 09:50:13		Notify changed for "core.weechat": "all" to "message"
+2016-09-02 09:50:13		Notify changed for "irc.server.freenode": "all" to "message"
+2016-09-02 09:50:13		Notify changed for "irc.freenode.##English": "all" to "message"
+2016-09-02 09:50:13		Notify changed for "irc.freenode.#reactjs": "all" to "message"
+2016-09-02 09:50:13		Option changed: weechat.look.buffer_notify_default = message  (default: all)
+2016-09-02 09:50:25		Option changed: irc.look.smart_filter = on
+2016-09-02 09:50:29		Filter "irc_smart" added:
+2016-09-02 09:50:29		  [irc_smart] buffer: * / tags: irc_smart_filter / regex: * 
+2016-09-02 09:50:44		Filter "irc_join_names" added:
+2016-09-02 09:50:44		  [irc_join_names] buffer: * / tags: irc_366,irc_332,irc_333,irc_329,irc_324 / regex: * 
+2016-09-02 09:52:28		Option changed: weechat.look.prefix_same_nick = "⤷"  (default: "")
+2016-09-02 09:52:33		Option changed: weechat.look.prefix_error = "⚠"  (default: "=!=")
+2016-09-02 09:52:38		Option changed: weechat.look.prefix_network = "ℹ "  (default: "--")
+2016-09-02 09:52:43		Option changed: weechat.look.prefix_action = "⚡"  (default: " *")
+2016-09-02 09:52:48		Option changed: weechat.look.bar_more_down = "▼▼"  (default: "++")
+2016-09-02 09:52:54		Option changed: weechat.look.bar_more_left = "◀◀"  (default: "<<")
+2016-09-02 09:52:58		Option changed: weechat.look.bar_more_right = "▶▶"  (default: ">>")
+2016-09-02 09:53:08		Option changed: weechat.look.bar_more_up = "▲▲"  (default: "--")
+2016-09-02 09:53:15		Option changed: weechat.look.prefix_suffix = "╡"  (default: "|")
+2016-09-02 09:54:22		Key "meta-n" unbound (context: "default")
+2016-09-02 09:54:22		New key binding (context "default"): meta-n => /bar toggle nicklist
+2016-09-02 09:54:25		Options saved to sec.conf
+2016-09-02 09:54:25		Options saved to weechat.conf
+2016-09-02 09:54:25		Options saved to plugins.conf
+2016-09-02 09:54:25		Options saved to charset.conf
+2016-09-02 09:54:25		Options saved to logger.conf
+2016-09-02 09:54:25		Options saved to exec.conf
+2016-09-02 09:54:25		Options saved to trigger.conf
+2016-09-02 09:54:25		Options saved to aspell.conf
+2016-09-02 09:54:25		Options saved to alias.conf
+2016-09-02 09:54:25		Options saved to xfer.conf
+2016-09-02 09:54:25		Options saved to irc.conf
+2016-09-02 09:54:25		Options saved to relay.conf
+2016-09-02 09:54:25		Options saved to buffers.conf
+2016-09-02 09:54:25		Options saved to iset.conf
+2016-09-02 09:54:25		Options saved to script.conf
+2016-09-02 09:57:19		Key "meta-b" unbound (context: "default")
+2016-09-02 09:57:19		New key binding (context "default"): meta-b => /bar toggle buffers
+2016-09-02 09:57:27		Options saved to sec.conf
+2016-09-02 09:57:27		Options saved to weechat.conf
+2016-09-02 09:57:27		Options saved to plugins.conf
+2016-09-02 09:57:27		Options saved to charset.conf
+2016-09-02 09:57:27		Options saved to logger.conf
+2016-09-02 09:57:27		Options saved to exec.conf
+2016-09-02 09:57:27		Options saved to trigger.conf
+2016-09-02 09:57:27		Options saved to aspell.conf
+2016-09-02 09:57:27		Options saved to alias.conf
+2016-09-02 09:57:27		Options saved to xfer.conf
+2016-09-02 09:57:27		Options saved to irc.conf
+2016-09-02 09:57:27		Options saved to relay.conf
+2016-09-02 09:57:27		Options saved to buffers.conf
+2016-09-02 09:57:27		Options saved to iset.conf
+2016-09-02 09:57:27		Options saved to script.conf
+2016-09-02 10:00:29		python: loading script "/home/justin/dotfiles/weechat/python/buffer_autoclose.py"
+2016-09-02 10:00:29		python: registered script "buffer_autoclose", version 0.4 (Automatically close inactive private message buffers)
+2016-09-02 10:00:31		python: loading script "/home/justin/dotfiles/weechat/python/go.py"
+2016-09-02 10:00:31		python: registered script "go", version 2.1 (Quick jump to buffers)
+2016-09-02 10:00:37		New key binding (context "default"): meta-g => /go
+2016-09-02 10:00:39		Options saved to sec.conf
+2016-09-02 10:00:39		Options saved to weechat.conf
+2016-09-02 10:00:39		Options saved to plugins.conf
+2016-09-02 10:00:39		Options saved to charset.conf
+2016-09-02 10:00:39		Options saved to logger.conf
+2016-09-02 10:00:39		Options saved to exec.conf
+2016-09-02 10:00:39		Options saved to trigger.conf
+2016-09-02 10:00:39		Options saved to aspell.conf
+2016-09-02 10:00:39		Options saved to alias.conf
+2016-09-02 10:00:39		Options saved to xfer.conf
+2016-09-02 10:00:39		Options saved to irc.conf
+2016-09-02 10:00:39		Options saved to relay.conf
+2016-09-02 10:00:39		Options saved to buffers.conf
+2016-09-02 10:00:39		Options saved to iset.conf
+2016-09-02 10:00:39		Options saved to script.conf
+2016-09-02 10:01:54		Option changed: weechat.color.chat_nick_colors = "1,2,3,4,5,6"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2016-09-02 10:02:10		Option changed: buffers.color.hotlist_message_fg = 7  (default: yellow)
+2016-09-02 10:03:04		Option changed: weechat.color.chat_nick_colors = "red,green,brown,blue,magenta,cyan,white,lightred,lightgreen,yellow,lightblue,lightmagenta,lightcyan"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2016-09-02 10:03:09		Options saved to sec.conf
+2016-09-02 10:03:09		Options saved to weechat.conf
+2016-09-02 10:03:09		Options saved to plugins.conf
+2016-09-02 10:03:09		Options saved to charset.conf
+2016-09-02 10:03:09		Options saved to logger.conf
+2016-09-02 10:03:09		Options saved to exec.conf
+2016-09-02 10:03:09		Options saved to trigger.conf
+2016-09-02 10:03:09		Options saved to aspell.conf
+2016-09-02 10:03:09		Options saved to alias.conf
+2016-09-02 10:03:09		Options saved to xfer.conf
+2016-09-02 10:03:09		Options saved to irc.conf
+2016-09-02 10:03:09		Options saved to relay.conf
+2016-09-02 10:03:09		Options saved to buffers.conf
+2016-09-02 10:03:09		Options saved to iset.conf
+2016-09-02 10:03:09		Options saved to script.conf
+2016-09-02 10:04:54		Option changed: irc.server.freenode.autojoin = "#archlinux,#reactjs,##english,##japanese,#vim,#go-nuts"  (default if null: "")
+2016-09-02 10:05:23		perl: scripts unloaded
+2016-09-02 10:05:23		URL server stopped
+2016-09-02 10:05:23		python: scripts unloaded
+2016-09-02 10:05:23		fifo: pipe closed
+2016-09-02 10:05:25		URL server listening on ('192.168.1.30', 46311)
+2016-09-02 10:05:25		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-02 10:05:25		perl scripts loaded: buddylist, buffers, iset
+2016-09-02 10:05:25		script: 310 scripts for WeeChat 1.5
+2016-09-02 10:05:25		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-02 10:07:18	⚠	Error: unknown command "/joint" (type /help for help)
+2016-09-02 10:07:26	⚠	Error: unknown command "/channels" (type /help for help)
+2016-09-02 10:07:32		[core]
+2016-09-02 10:07:32		  away     buffer   command  debug    filter   history  key      mouse    plugin   proxy    reload   save     set      upgrade  version  window 
+2016-09-02 10:07:32		  bar      color    cursor   eval     help     input    layout   mute     print    quit     repeat   secure   unset    uptime   wait   
+2016-09-02 10:07:32		[charset]
+2016-09-02 10:07:32		  charset
+2016-09-02 10:07:32		[ruby]
+2016-09-02 10:07:32		  ruby
+2016-09-02 10:07:32		[logger]
+2016-09-02 10:07:32		  logger
+2016-09-02 10:07:32		[aspell]
+2016-09-02 10:07:32		  aspell
+2016-09-02 10:07:32		[tcl]
+2016-09-02 10:07:32		  tcl
+2016-09-02 10:07:32		[xfer]
+2016-09-02 10:07:32		  me  xfer
+2016-09-02 10:07:32		[fifo]
+2016-09-02 10:07:32		  fifo
+2016-09-02 10:07:32		[python]
+2016-09-02 10:07:32		  go  prism  python  shell  urlserver
+2016-09-02 10:07:32		[alias]
+2016-09-02 10:07:32		  AAWAY    AME      ANICK    BYE      CHAT     CLOSE    IG       K        LEAVE    MSGBUF   N        REDRAW   SIGNOFF  UB       V        WC       WII    
+2016-09-02 10:07:32		  alias    AMSG     BEEP     C        CL       EXIT     J        KB       M        MUB      Q        SAY      T        UMODE    W        WI       WW     
+2016-09-02 10:07:32		[trigger]
+2016-09-02 10:07:32		  trigger
+2016-09-02 10:07:32		[perl]
+2016-09-02 10:07:32		  buddylist  buffers_detach  buffers_whitelist  iset  perl
+2016-09-02 10:07:32		[guile]
+2016-09-02 10:07:32		  guile
+2016-09-02 10:07:32		[exec]
+2016-09-02 10:07:32		  exec
+2016-09-02 10:07:32		[lua]
+2016-09-02 10:07:32		  lua
+2016-09-02 10:07:32		[relay]
+2016-09-02 10:07:32		  relay
+2016-09-02 10:07:32		[script]
+2016-09-02 10:07:32		  script
+2016-09-02 10:07:32		[irc]
+2016-09-02 10:07:32		  admin       cap         dehalfop    halfop      join        list        motd        notify      pong        rehash      sanick      servlist    time        userhost    wallops   
+2016-09-02 10:07:32		  allchan     connect     deop        ignore      kick        lusers      msg         op          query       remove      sapart      squery      topic       users       who       
+2016-09-02 10:07:32		  allpv       ctcp        devoice     info        kickban     map         names       oper        quiet       restart     saquit      squit       trace       version     whois     
+2016-09-02 10:07:32		  allserv     cycle       die         invite      kill        me          nick        part        quote       sajoin      server      stats       unban       voice       whowas    
+2016-09-02 10:07:32		  ban         dcc         disconnect  ison        links       mode        notice      ping        reconnect   samode      service     summon      unquiet     wallchops 
+2016-09-02 20:35:02	⚠	Error: unknown command "/find" (type /help for help)
+2016-09-03 00:37:19		perl: scripts unloaded
+2016-09-03 00:37:19		URL server stopped
+2016-09-03 00:37:19		python: scripts unloaded
+2016-09-03 00:37:19		fifo: pipe closed
+2016-09-03 12:31:53		URL server listening on ('192.168.1.31', 38795)
+2016-09-03 12:31:53		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-03 12:31:53		perl scripts loaded: buddylist, buffers, iset
+2016-09-03 12:31:53		script: downloading list of scripts...
+2016-09-03 12:31:53		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-03 12:31:57		script: 310 scripts for WeeChat 1.5
+2016-09-03 12:38:27		perl: scripts unloaded
+2016-09-03 12:38:27		URL server stopped
+2016-09-03 12:38:27		python: scripts unloaded
+2016-09-03 12:38:27		fifo: pipe closed
+2016-09-03 13:10:07		URL server listening on ('192.168.1.31', 33999)
+2016-09-03 13:10:07		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-03 13:10:07		perl scripts loaded: buddylist, buffers, iset
+2016-09-03 13:10:07		script: 310 scripts for WeeChat 1.5
+2016-09-03 13:10:07		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-03 15:15:59		perl: scripts unloaded
+2016-09-03 15:15:59		URL server stopped
+2016-09-03 15:15:59		python: scripts unloaded
+2016-09-03 15:15:59		fifo: pipe closed
+2016-09-03 15:50:19		URL server listening on ('192.168.1.31', 40889)
+2016-09-03 15:50:19		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-03 15:50:19		perl scripts loaded: buddylist, buffers, iset
+2016-09-03 15:50:19		script: 310 scripts for WeeChat 1.5
+2016-09-03 15:50:19		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-03 15:50:30	⚠	irc: command "join" must be executed on connected irc server
+2016-09-03 18:07:59		fifo: removing old fifo pipe "/home/justin/dotfiles/weechat/weechat_fifo_3746"
+2016-09-03 18:08:00		URL server listening on ('192.168.1.31', 38203)
+2016-09-03 18:08:00		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-03 18:08:00		perl scripts loaded: buddylist, buffers, iset
+2016-09-03 18:08:00		script: 310 scripts for WeeChat 1.5
+2016-09-03 18:08:00		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-04 07:51:04		fifo: removing old fifo pipe "/home/justin/dotfiles/weechat/weechat_fifo_2773"
+2016-09-04 07:51:05		URL server listening on ('192.168.1.31', 42399)
+2016-09-04 07:51:05		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-04 07:51:05		perl scripts loaded: buddylist, buffers, iset
+2016-09-04 07:51:05		script: 310 scripts for WeeChat 1.5
+2016-09-04 07:51:05		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-04 23:06:35		perl: scripts unloaded
+2016-09-04 23:06:39		URL server stopped
+2016-09-04 23:06:39		python: scripts unloaded
+2016-09-04 23:06:39		fifo: pipe closed
+2016-09-11 22:01:09		URL server listening on ('192.168.1.31', 41923)
+2016-09-11 22:01:09		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-11 22:01:09		perl scripts loaded: buddylist, buffers, iset
+2016-09-11 22:01:09		script: downloading list of scripts...
+2016-09-11 22:01:09		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-11 22:01:19		script: 310 scripts for WeeChat 1.5
+2016-09-11 22:57:43		perl: scripts unloaded
+2016-09-11 22:57:43		URL server stopped
+2016-09-11 22:57:43		python: scripts unloaded
+2016-09-11 22:57:43		fifo: pipe closed
+2016-09-14 22:00:49		URL server listening on ('192.168.1.31', 37571)
+2016-09-14 22:00:49		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-14 22:00:49		perl scripts loaded: buddylist, buffers, iset
+2016-09-14 22:00:49		script: downloading list of scripts...
+2016-09-14 22:00:49		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-14 22:00:55		script: 310 scripts for WeeChat 1.5
+2016-09-14 23:19:09		perl: scripts unloaded
+2016-09-14 23:19:09		URL server stopped
+2016-09-14 23:19:09		python: scripts unloaded
+2016-09-14 23:19:09		fifo: pipe closed
+2016-09-15 05:51:44		URL server listening on ('192.168.1.31', 40003)
+2016-09-15 05:51:44		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-15 05:51:44		perl scripts loaded: buddylist, buffers, iset
+2016-09-15 05:51:44		script: 310 scripts for WeeChat 1.5
+2016-09-15 05:51:44		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-15 15:05:12	⚠	Error: unknown command "/nested" (type /help for help)
+2016-09-15 23:15:06		perl: scripts unloaded
+2016-09-15 23:15:06		URL server stopped
+2016-09-15 23:15:06		python: scripts unloaded
+2016-09-15 23:15:06		fifo: pipe closed
+2016-09-17 07:29:10		URL server listening on ('192.168.1.31', 39917)
+2016-09-17 07:29:10		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-17 07:29:10		perl scripts loaded: buddylist, buffers, iset
+2016-09-17 07:29:10		script: downloading list of scripts...
+2016-09-17 07:29:10		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-17 07:29:13		script: 310 scripts for WeeChat 1.5
+2016-09-17 07:59:35		perl: scripts unloaded
+2016-09-17 07:59:35		URL server stopped
+2016-09-17 07:59:35		python: scripts unloaded
+2016-09-17 07:59:35		fifo: pipe closed
+2016-09-24 12:39:46		URL server listening on ('192.168.1.31', 35987)
+2016-09-24 12:39:46		python scripts loaded: buffer_autoclose, go, prism, shell, text_item, urlserver
+2016-09-24 12:39:46		perl scripts loaded: buddylist, buffers, iset
+2016-09-24 12:39:46		script: downloading list of scripts...
+2016-09-24 12:39:46		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-09-24 12:39:49		script: 310 scripts for WeeChat 1.5
+2016-09-24 12:40:12		Option changed: irc.server.freenode.autojoin = "#archlinux,#reactjs,##english,##japanese,#vim,#go-nuts,#postgresql"  (default if null: "")
+2016-09-24 12:40:18		Options saved to sec.conf
+2016-09-24 12:40:18		Options saved to weechat.conf
+2016-09-24 12:40:18		Options saved to plugins.conf
+2016-09-24 12:40:18		Options saved to charset.conf
+2016-09-24 12:40:18		Options saved to logger.conf
+2016-09-24 12:40:18		Options saved to exec.conf
+2016-09-24 12:40:18		Options saved to trigger.conf
+2016-09-24 12:40:18		Options saved to aspell.conf
+2016-09-24 12:40:18		Options saved to alias.conf
+2016-09-24 12:40:18		Options saved to xfer.conf
+2016-09-24 12:40:18		Options saved to irc.conf
+2016-09-24 12:40:18		Options saved to relay.conf
+2016-09-24 12:40:18		Options saved to buffers.conf
+2016-09-24 12:40:18		Options saved to iset.conf
+2016-09-24 12:40:18		Options saved to script.conf
+2016-09-24 12:40:32	⚠	irc: command "join" must be executed on connected irc server
+2016-09-24 12:40:41	⚠	irc: command "join" must be executed on connected irc server
+2016-09-24 23:14:26		perl: scripts unloaded
+2016-09-24 23:14:26		URL server stopped
+2016-09-24 23:14:26		python: scripts unloaded
+2016-09-24 23:14:26		fifo: pipe closed

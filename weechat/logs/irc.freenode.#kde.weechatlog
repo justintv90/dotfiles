@@ -1,0 +1,87 @@
+2016-09-03 15:51:12		justintv90 (~justintv9@58.187.167.63) has joined #kde
+2016-09-03 15:51:12	ℹ 	Topic for #kde is "KDE Plasma 5.7 and KDE Applications 16.04 are out! See www.kde.org | http://userbase.kde.org | http://forum.kde.org | Don't flood the channel, use http://paste.kde.org | Distro related questions go in your distro channel | Offtopic in #kde-chat | State your distribution and KDE version when asking questions | Don't delete ~/.kde or ~/.kde4"
+2016-09-03 15:51:12	ℹ 	Topic set by Jucato (~jucato@kde/developer/jucato) on Thu, 28 Jul 2016 13:28:58"
+2016-09-03 15:51:12	ℹ 	Channel #kde: 458 nicks (1 op, 0 voices, 457 normals)
+2016-09-03 15:51:12	ℹ 	URL for #kde: http://www.kde.org
+2016-09-03 15:51:13	ℹ 	Channel created on Sun, 26 Nov 2006 13:42:41"
+2016-09-03 15:51:16	justintv90	Hi
+2016-09-03 15:51:38	justintv90	My kruner's dictionary doesn't work, please help
+2016-09-03 15:52:29	justintv90	I did tick the Dictionary in Kruner setting windows, did I miss anything ?
+2016-09-03 15:53:36		vincenzo (~konversat@host216-125-dynamic.32-79-r.retail.telecomitalia.it) has joined #kde
+2016-09-03 15:53:45	thiago	works here, but you have to wait
+2016-09-03 15:53:58	thiago	not very useful because you can only read the first and last three words of the definition
+2016-09-03 15:54:19		disharmonic (~disharmon@unaffiliated/disharmonic) has joined #kde
+2016-09-03 15:55:54		kiao2938 (~mj@46.128.154.166.dynamic.cablesurf.de) has quit (Quit: Konversation terminated!)
+2016-09-03 15:56:58	justintv90	The spellchecking neither
+2016-09-03 15:56:58		jgrulich (~jgrulich@87.190.250.220) has joined #kde
+2016-09-03 15:57:19	justintv90	is the syntax "spell {word}" right ?
+2016-09-03 16:01:16		Toast (~quassel@w-247.cust-16293.ip.static.uno.uk.net) has joined #kde
+2016-09-03 16:04:16	thiago	it might be localised to your language
+2016-09-03 16:04:19	pierre^	i dont know, but try it , no risk
+2016-09-03 16:05:30		kiao2938 (~mj@46.128.154.166.dynamic.cablesurf.de) has joined #kde
+2016-09-03 16:07:12		lucaa (~lucaa@89-157-186-129.rev.numericable.fr) has quit (Ping timeout: 240 seconds)
+2016-09-03 16:07:22		thiago (~thiago@kde/thiago) has quit (Remote host closed the connection)
+2016-09-03 16:08:32		kiao2938 (~mj@46.128.154.166.dynamic.cablesurf.de) has quit (Client Quit)
+2016-09-03 16:09:06		kiao2938 (~mj@46.128.154.166.dynamic.cablesurf.de) has joined #kde
+2016-09-03 16:09:29		hurikhan77 (~kakra@2a02:8109:19c0:14c8:225:22ff:fee6:c90b) has joined #kde
+2016-09-03 16:13:01		jgrulich (~jgrulich@87.190.250.220) has quit (Ping timeout: 250 seconds)
+2016-09-03 16:18:34		ShalokShalom_ (~quassel@mobiledyn4.mrsn.at) has quit (Ping timeout: 244 seconds)
+2016-09-03 16:18:43		grimsley (~grimsley@2602:306:319e:c390:c00:e2c9:98c5:da5c) has joined #kde
+2016-09-03 16:19:09		ShalokShalom (~quassel@193-83-47-115.adsl.highway.telekom.at) has joined #kde
+2016-09-03 16:20:34		jigar (~quassel@122.170.146.159) has joined #kde
+2016-09-03 16:24:13		kiao2938 (~mj@46.128.154.166.dynamic.cablesurf.de) has quit (Quit: Konversation terminated!)
+2016-09-03 16:24:28		juba (~juba@unaffiliated/juba) has quit (Read error: Connection reset by peer)
+2016-09-03 16:24:36	ℹ 	jonnyblaze is now known as omnibus
+2016-09-03 16:24:50		kiao2938 (~mj@46.128.154.166.dynamic.cablesurf.de) has joined #kde
+2016-09-03 16:25:04		redeyedman (~galym@37.150.3.252) has joined #kde
+2016-09-03 16:25:51		kiao2938 (~mj@46.128.154.166.dynamic.cablesurf.de) has quit (Client Quit)
+2016-09-03 16:26:25		kiao2938 (~mj@46.128.154.166.dynamic.cablesurf.de) has joined #kde
+2016-09-03 16:29:07		aracele (~quassel@87.190.250.220) has quit (Remote host closed the connection)
+2016-09-03 16:30:16		UnhandlException (~galym@178.91.21.201) has joined #kde
+2016-09-03 16:30:34		redeyedman (~galym@37.150.3.252) has quit (Ping timeout: 265 seconds)
+2016-09-03 16:37:37		thiago (~thiago@kde/thiago) has joined #kde
+2016-09-03 16:38:53		juba (~juba@ww.nozav.org) has joined #kde
+2016-09-03 16:38:55		juba (~juba@ww.nozav.org) has quit (Changing host)
+2016-09-03 16:38:56		juba (~juba@unaffiliated/juba) has joined #kde
+2016-09-03 16:39:48		JenaPlinsky (~Jena@93.37.1.97) has quit (Quit: Konversation terminated!)
+2016-09-03 16:39:55		soee (~soee@afgt2.neoplus.adsl.tpnet.pl) has joined #kde
+2016-09-03 16:42:42		soee_ (~soee@user-46-112-101-237.play-internet.pl) has joined #kde
+2016-09-03 16:44:35		soee (~soee@afgt2.neoplus.adsl.tpnet.pl) has quit (Ping timeout: 240 seconds)
+2016-09-03 16:46:57		lucaa (~lucaa@89-157-186-129.rev.numericable.fr) has joined #kde
+2016-09-03 16:47:02		Condor (~condor@unaffiliated/condor) has quit (Ping timeout: 265 seconds)
+2016-09-03 16:56:30		skreech (~skreech@2601:ca:4001:2210::4) has quit (Quit: Konversation terminated!)
+2016-09-03 16:56:42		s8321414 (~s8321414@150.117.138.97) has quit (Quit: Konversation terminated!)
+2016-09-03 16:56:51		skreech (~skreech@2601:ca:4001:2210::4) has joined #kde
+2016-09-03 16:57:15		ibouvousaime (~ibouvousa@41.83.28.46) has joined #kde
+2016-09-03 16:58:30		sgshubham03 (uid103854@gateway/web/irccloud.com/x-adydmixalkrweimc) has quit (Quit: Connection closed for inactivity)
+2016-09-03 17:00:25		cmacq2 (~cmacq2@g194109.upc-g.chello.nl) has joined #kde
+2016-09-03 17:00:37		Condor (~condor@unaffiliated/condor) has joined #kde
+2016-09-03 17:06:01		NeuhNeuh (~Jean-Char@2a01:e35:2f4a:7450:ae7b:a1ff:fe3f:60e7) has joined #kde
+2016-09-03 17:06:02	ℹ 	UnhandlException is now known as redeyedman
+2016-09-03 17:06:41		tux|dude (~tuxdude14@103-224-130-18.flip.co.nz) has quit (Quit: Leaving)
+2016-09-03 17:08:01		lfrlucas (~lfrlucas@cr-217-129-236-205.netvisao.pt) has joined #kde
+2016-09-03 17:08:31		NeuhNeuh (~Jean-Char@2a01:e35:2f4a:7450:ae7b:a1ff:fe3f:60e7) has quit (Client Quit)
+2016-09-03 17:19:57		jigar (~quassel@122.170.146.159) has quit (Remote host closed the connection)
+2016-09-03 17:20:56		picolino (~picolino@mst45-4-78-241-2-205.fbx.proxad.net) has quit (Ping timeout: 244 seconds)
+2016-09-03 17:22:46		joephelius_ (~joe@gateway/vpn/privateinternetaccess/joephelius) has joined #kde
+2016-09-03 17:22:46		joephelius (~joe@55d4074c.access.ecotel.net) has quit (Ping timeout: 252 seconds)
+2016-09-03 17:22:53		picolino (~picolino@mst45-4-78-241-2-205.fbx.proxad.net) has joined #kde
+2016-09-03 17:27:31		picolino (~picolino@mst45-4-78-241-2-205.fbx.proxad.net) has quit (Ping timeout: 264 seconds)
+2016-09-03 17:28:39		fekepp (~Thunderbi@88.128.80.108) has joined #kde
+2016-09-03 17:29:01		e-anima (~marco@p20030072AE091700F66D04FFFEE39B32.dip0.t-ipconnect.de) has quit (Remote host closed the connection)
+2016-09-03 17:30:23		picolino (~picolino@mst45-4-78-241-2-205.fbx.proxad.net) has joined #kde
+2016-09-03 17:30:31		blueck (~bb@dslb-178-011-186-090.178.011.pools.vodafone-ip.de) has joined #kde
+2016-09-03 17:30:36		e-anima (~marco@p20030072AE091700F66D04FFFEE39B32.dip0.t-ipconnect.de) has joined #kde
+2016-09-03 17:33:05		thiago (~thiago@kde/thiago) has quit (Ping timeout: 258 seconds)
+2016-09-03 17:37:31		fixl (~fixl@46.166.137.237) has joined #kde
+2016-09-03 17:37:31		jalalsfs (~jalal@unaffiliated/jalalsfs) has quit (Quit: Konversation terminated!)
+2016-09-03 17:37:57		chek2fire (~spiros@athedsl-4430312.home.otenet.gr) has joined #kde
+2016-09-03 17:38:24		brancaleone (~brancaleo@ip-83-134-56-206.dsl.scarlet.be) has quit (Ping timeout: 244 seconds)
+2016-09-03 17:40:51		planhths (~manjaro-k@athedsl-4540732.home.otenet.gr) has quit (Quit: Konversation terminated!)
+2016-09-03 17:43:07		brancaleone (~brancaleo@ip-83-134-56-206.dsl.scarlet.be) has joined #kde
+2016-09-03 17:47:23		jgrulich (~jgrulich@87.190.250.220) has joined #kde
+2016-09-03 17:47:39		knicklux (~knicklux@HSI-KBW-109-192-009-199.hsi6.kabel-badenwuerttemberg.de) has quit (Remote host closed the connection)
+2016-09-03 17:48:11		Sephirot (~sephirot@dyndsl-178-142-056-184.ewe-ip-backbone.de) has joined #kde
+2016-09-03 17:48:19		lucaa (~lucaa@89-157-186-129.rev.numericable.fr) has quit (Ping timeout: 255 seconds)
+2016-09-03 17:55:15		mike-zal2 (~michaldyb@cdr82.neoplus.adsl.tpnet.pl) has joined #kde
+2016-09-03 17:55:16		mike-zal (~michaldyb@cdr82.neoplus.adsl.tpnet.pl) has quit (Read error: Connection reset by peer)

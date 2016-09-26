@@ -1,0 +1,32 @@
+priority -50
+
+extends sh
+
+priority -49
+
+snippet #! "shebang" b
+#!/bin/zsh
+
+endsnippet
+
+snippet !env "#!/usr/bin/env (!env)" b
+#!/usr/bin/env zsh
+
+endsnippet
+
+snippet a "alias" b
+alias $1="$2" # ${3:explanation}
+endsnippet
+
+snippet ga "global alias" b
+alias -g $1="$2" # ${3:explanation}
+endsnippet
+
+snippet n "function"
+function $1 ($2) {
+	$3
+}
+$0
+endsnippet
+
+# vim:ft=snippets:

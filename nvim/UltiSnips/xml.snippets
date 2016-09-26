@@ -1,0 +1,23 @@
+snippet t "Simple tag"
+<${1:tag}>
+	${2:content}
+</${1/([\w:._-]+).*/$1/}>
+endsnippet
+
+snippet it "Inline tag"
+<${1:tag}>${2:content}</${1/([\w:._-]+).*/$1/}>
+endsnippet
+
+snippet item "new Karabiner item" b
+<item>
+	<name> $1 </name>
+	<identifier>$2</identifier>
+	<only>$3</only>
+	<autogen>__KeyToKey__ KeyCode::$4, KeyCode::$5</autogen>
+</item>
+endsnippet
+
+snippet au "autogen"
+<autogen>__KeyToKey__ KeyCode::$1, KeyCode::$2</autogen>
+endsnippet
+
