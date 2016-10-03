@@ -41,7 +41,8 @@ nnoremap <silent> <A-e> :Buffers<CR>
 " nnoremap <BS> :History:<cr>
 "
 " if the file isn't active, switch to it
-nnoremap <BS> :Files .<CR>
+" nnoremap <BS> :Files .<CR>
+nnoremap <C-f> :ProjectFiles<CR>
 
 " " Mapping selecting mappings
 nmap <leader><tab> <plug>(fzf-maps-n)

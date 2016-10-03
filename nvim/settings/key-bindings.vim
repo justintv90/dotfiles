@@ -10,8 +10,16 @@ map <Leader>ee :e <C-R>=escape(expand("%:p:h"),' ') . '/'<CR>
 " insert mode
 imap <c-e> <esc>A
 imap kj <Esc>l
-" Navigate in insert mode
 
+" Navigate in split
+if has('nvim')
+    nmap <BS> <C-W>h
+endif
+
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
 
 nnoremap <silent> <space> :nohl<Bar>:echo<CR>
 nnoremap <leader>w mzyyp`zj
@@ -136,8 +144,62 @@ nnoremap ,. '.
 "
 " the first quote will autoclose so you'll get 'foo' and hitting <c-a> will
 " put the cursor right after the quote
-imap <C-a> <esc>wa
+imap <A-a> <esc>wa
 
 " Auto indent pasted text
 nnoremap p p=`]<C-o>
 nnoremap P P=`]<C-o>
+
+map <C-n> :cnext<CR>
+map <C-m> :cprevious<CR>
+nnoremap <leader>a :cclose<CR>
+
+
+" hit ,f to find the definition of the current class
+" this uses ctags. the standard way to get this is Ctrl-]
+nnoremap <silent> ,f <C-]>
+
+" use ,F to jump to tag in a vertical split
+nnoremap <silent> ,F :let word=expand("<cword>")<CR>:vsp<CR>:wincmd w<cr>:exec("tag ". word)<cr>
+
+
+" Zoom / Restore window.
+function! s:ZoomToggle() abort
+    if exists('t:zoomed') && t:zoomed
+        execute t:zoom_winrestcmd
+        let t:zoomed = 0
+    else
+        let t:zoom_winrestcmd = winrestcmd()
+        resize
+        vertical resize
+        let t:zoomed = 1
+    endif
+endfunction
+command! ZoomToggle call s:ZoomToggle()
+nnoremap <silent> <leader>E :ZoomToggle<CR>
+
+" For each time K has produced timely, useful results, I have pressed it 10,000
+" times without meaning to, triggering an annoying delay.
+nnoremap K <nop>
+
+" Repurpose cursor keys (accessible near homerow via "SpaceFN" layout) for one
+" of my most oft-use key sequences.
+nnoremap <silent> <Up> :cprevious<CR>
+nnoremap <silent> <Down> :cnext<CR>
+nnoremap <silent> <Left> :cpfile<CR>
+nnoremap <silent> <Right> :cnfile<CR>
+
+
+function! s:escape(path)
+	return substitute(a:path, ' ', '\\ ', 'g')
+endfunction
+
+function! GitLsHandler(line)
+	execute 'e '. s:escape(a:line)
+endfunction
+
+function! s:find_git_root()
+  return system('git rev-parse --show-toplevel 2> /dev/null')[:-2]
+endfunction
+
+command! ProjectFiles execute 'Files' s:find_git_root()

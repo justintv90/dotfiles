@@ -1,9 +1,17 @@
-" General
+" Genereal plugins {{{ "
 Plug 'neomake/neomake', {'on': ['Neomake']}
+
+" Movement plugins
 Plug 'justinmk/vim-sneak'
-Plug 'christoomey/vim-tmux-navigator'
 Plug 'tmhedberg/matchit'
 Plug 'Yggdroot/indentLine'
+Plug 'jeffkreeftmeijer/vim-numbertoggle'
+
+" Session plugins
+Plug 'xolox/vim-session'
+Plug 'xolox/vim-misc'
+
+" }}} Genereal plugins "
 
 " Searcsh
 Plug 'rking/ag.vim'
@@ -31,11 +39,23 @@ Plug 'tomtom/tcomment_vim'
 
 
 " Javascript
-Plug 'mxw/vim-jsx', {'for': ['js', 'jsx']}
-Plug 'othree/javascript-libraries-syntax.vim', {'for': ['js', 'jsx']}
+Plug 'mxw/vim-jsx', { 'for': ['javascript', 'javascript.jsx'] }
+Plug 'othree/javascript-libraries-syntax.vim', { 'for': ['javascript', 'javascript.jsx'] }
+Plug 'jaawerth/neomake-local-eslint-first', { 'for': ['javascript', 'javascript.jsx'] }
+Plug 'guileen/vim-node-dict', { 'for': ['javascript', 'javascript.jsx'] }
+Plug 'moll/vim-node', { 'for': ['javascript', 'javascript.jsx'] }
+Plug 'othree/yajs.vim', { 'for': ['javascript', 'javascript.jsx'] }
+Plug '1995eaton/vim-better-javascript-completion', { 'for': ['javascript', 'javascript.jsx'] }
+Plug 'gavocanov/vim-js-indent', { 'for': ['javascript', 'javascript.jsx'] }
+Plug 'marijnh/tern_for_vim', { 'do': 'npm install' , 'for': ['javascripts', 'javascript.jsx']}
+Plug 'carlitux/deoplete-ternjs', { 'for': ['javascript', 'javascript.jsx'] }
+Plug 'digitaltoad/vim-jade', { 'for': ['javascript', 'javascript.jsx'] }
+Plug 'elzr/vim-json',{ 'for': ['javascript', 'javascript.jsx'] }
+
 
 " Golang
 Plug 'fatih/vim-go', {'for': ['go']}
+Plug 'zchee/deoplete-go', { 'do': 'make', 'for': ['go']}
 
 
 " Visual & Syntax

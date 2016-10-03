@@ -2,6 +2,9 @@
 
 " general settings {{{
 augroup general
+    " Switch working dir on open
+    autocmd BufEnter * lcd %:p:h
+
     " lint on save
     autocmd! BufWritePost * Neomake
 
@@ -15,6 +18,7 @@ augroup general
     " close preview window after completion
     let blacklist = ['vim', 'nvim']
     autocmd CompleteDone * if index(blacklist, &ft) <0 | pclose!
+
 augroup END
 " }}}
 
