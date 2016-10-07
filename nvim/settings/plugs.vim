@@ -39,18 +39,19 @@ Plug 'tomtom/tcomment_vim'
 
 
 " Javascript
-Plug 'mxw/vim-jsx', { 'for': ['javascript', 'javascript.jsx'] }
-Plug 'othree/javascript-libraries-syntax.vim', { 'for': ['javascript', 'javascript.jsx'] }
-Plug 'jaawerth/neomake-local-eslint-first', { 'for': ['javascript', 'javascript.jsx'] }
-Plug 'guileen/vim-node-dict', { 'for': ['javascript', 'javascript.jsx'] }
-Plug 'moll/vim-node', { 'for': ['javascript', 'javascript.jsx'] }
-Plug 'othree/yajs.vim', { 'for': ['javascript', 'javascript.jsx'] }
-Plug '1995eaton/vim-better-javascript-completion', { 'for': ['javascript', 'javascript.jsx'] }
-Plug 'gavocanov/vim-js-indent', { 'for': ['javascript', 'javascript.jsx'] }
-Plug 'marijnh/tern_for_vim', { 'do': 'npm install' , 'for': ['javascripts', 'javascript.jsx']}
-Plug 'carlitux/deoplete-ternjs', { 'for': ['javascript', 'javascript.jsx'] }
-Plug 'digitaltoad/vim-jade', { 'for': ['javascript', 'javascript.jsx'] }
-Plug 'elzr/vim-json',{ 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'mxw/vim-jsx', { 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'othree/javascript-libraries-syntax.vim', { 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'jaawerth/neomake-local-eslint-first', { 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'guileen/vim-node-dict', { 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'moll/vim-node', { 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'othree/yajs.vim', { 'for': ['javascript', 'javascript.jsx'] }
+" Plug '1995eaton/vim-better-javascript-completion', { 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'gavocanov/vim-js-indent', { 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'marijnh/tern_for_vim', { 'do': 'npm install' , 'for': ['javascripts', 'javascript.jsx']}
+" Plug 'carlitux/deoplete-ternjs', { 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'digitaltoad/vim-jade', { 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'elzr/vim-json',{ 'for': ['javascript', 'javascript.jsx'] }
+" Plug 'othree/jspc.vim',{ 'for': ['javascript', 'javascript.jsx'] }
 
 
 " Golang

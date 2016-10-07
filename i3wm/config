@@ -155,6 +155,7 @@ bindsym $mod+p exec $HOME/bin/rofi-xrandr
     for_window [class="spotifywebplayer"] move to workspace $WS6
     assign [class="Mail|Thunderbird"] $WS4
     assign [class="Firefox"] $WS2
+    assign [class="Slack"] $WS0
 # }}} Assign windows #
 
 
